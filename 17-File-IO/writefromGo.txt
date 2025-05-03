@@ -1,0 +1,1 @@
+Hello!!! Writing to a file in Go.
